@@ -1,0 +1,7 @@
+Install and configure the corresponding environment according to requirements.txt. The version must be the one you downloaded
+
+Run the detect.py file to start
+
+inference\images folder is under the plate-main\inference\images file, which can be put into video format
+
+\plate-main\inference\output folder is the output file
